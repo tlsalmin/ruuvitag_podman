@@ -1,0 +1,4 @@
+INFLUXDB_DB=telegraf
+INFLUXDB_ADMIN_USER=admin
+INFLUXDB_ADMIN_PASSWORD=supersecretpassword
+PODNAME=ruuvipod
